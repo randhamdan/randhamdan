@@ -71,5 +71,37 @@ class About extends Me:
             "Trello",
             "Slack"
         }
+<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   I’m currently learning AI & RAG Systems. <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    I enjoy building Mobile & Full-Stack Applications. <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Ask me about React Native, Laravel, or AI Projects. <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   Find me on LinkedIn: Rand Hamdan<br>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />    Fun fact: I love combining AI with real-world applications 🚀<br>
+<div align="center" > <hr></hr>
+💻 Featured Projects
+📱 Qareeb Mobile Application
+
+React Native & Firebase housing booking application.
+
+🤖 CV-RAG Chatbot
+
+AI-powered chatbot using FastAPI, Streamlit, Pinecone, and RAG architecture.
+
+🧪 QA Automation Project
+
+Automated testing project using Playwright and TypeScript.
+
+🍽 Restaurant Reservation System
+
+Full-stack Laravel application using Blade and Bootstrap.
+
+💧 WaterWise App
+
+UI/UX mobile application designed using Figma.
+
+<hr></hr>
+📫 Connect With Me
+GitHub: https://github.com/randhamdan
+Behance: https://www.behance.net/gallery/241258621/WaterWise-App
+</div> ```
     };
 }
