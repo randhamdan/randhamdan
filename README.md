@@ -67,7 +67,6 @@ class About extends Me:
             "GitHub", 
             "Figma", 
             "Docker",
-            "Postman",
             "Trello",
             "Slack"
         }
@@ -101,7 +100,7 @@ UI/UX mobile application designed using Figma.
 <hr></hr>
 📫 Connect With Me
 GitHub: https://github.com/randhamdan
-Behance: https://www.behance.net/gallery/241258621/WaterWise-App
+Linkedin: https://www.linkedin.com/in/rand-hamdan-67bb09395?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 </div> ```
     };
 }
